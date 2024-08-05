@@ -1,0 +1,12 @@
+#include<stdio.h>
+int main() 
+{ 
+int k,f=1,c; 
+scanf("%d",&k); 
+for(k=c;k>0;k--);
+{ 
+f=f*k;
+} 
+printf("%d",c); 
+return 0; 
+}
