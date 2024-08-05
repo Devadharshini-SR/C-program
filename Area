@@ -1,0 +1,13 @@
+#include 
+int main() 
+{ 
+int l,b; 
+printf("Enterthelengthandbreadthoftherectangle:"); 
+scanf("%d %d",&l,&b); 
+int area; 
+area=l*b; 
+{
+printf("a=%d",area);
+} 
+return 0;
+}
